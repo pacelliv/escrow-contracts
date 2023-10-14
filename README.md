@@ -92,7 +92,7 @@ make test-forge
 
 ### Run tasks 👩‍💻👨‍💻
 
-Check the `tasks` subdirectory to see the task. Use `npx hardhat help task_name` to see more information about the task.
+Check the `tasks` subdirectory to see the a serie of tasks. Use `npx hardhat help task_name` to see more information about the task.
 
 Tasks can be used on a testnet o the local node.
 
