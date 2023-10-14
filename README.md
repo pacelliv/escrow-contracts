@@ -100,7 +100,7 @@ Tasks can be used on a testnet o the local node.
 make chain
 ```
 
-#### Formatting:
+### Formatting:
 
 ```bash
 make format-check
