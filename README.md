@@ -104,7 +104,7 @@ make chain
 
 ```bash
 make format-check
-make format-prettier
+make format-fix
 ```
 
 ### Resources 📚
