@@ -72,7 +72,7 @@ Replace the values of the keys in the `.env` file. A `.env.example` file is prov
 make build
 ```
 
-#### deploy
+#### Deploy
 ```bash
 # to deploy locally
 make deploy
@@ -90,7 +90,7 @@ make test-hardhat
 make test-forge
 ```
 
-### Test 👩‍💻👨‍💻
+### Run tasks 👩‍💻👨‍💻
 
 Check the `tasks` subdirectory to see the task. Use `npx hardhat help task_name` to see more information about the task.
 
