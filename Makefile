@@ -10,7 +10,7 @@ TAGS ?=
 
 # Formatting commands:
 format-check :; npx prettier --check '**/**/*.{ts,json}' 'src/**/*.sol' 'test-forge/**/*.sol'
-format-fix :; npx prettier --write '**/**/*.ts' 'src/**/*.sol' 'test-forge/**/*.sol'
+format-fix :; npx prettier --write '**/**/*.{ts,json}' 'src/**/*.sol' 'test-forge/**/*.sol'
 
 # Clean cache and artifacts:
 clean :; yarn hardhat clean
