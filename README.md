@@ -1,6 +1,6 @@
 ## Week 5 project - Escrow Contract 📑
 
-### ⚡️⚡️ [Live Demo](escrow-frontend-gamma.vercel.app/)
+### ⚡️⚡️ [Live Demo](https://escrow-frontend-gamma.vercel.app/)
 
 ### Introduction 👩‍🏫👨‍🏫
 
