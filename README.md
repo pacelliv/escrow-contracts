@@ -96,6 +96,8 @@ Check the `tasks` subdirectory to see the a serie of tasks. Use `npx hardhat hel
 
 Tasks can be used on a testnet o the local node.
 
+If you intend on using the tasks on the local chain, duplicate the terminal and run:
+
 ```bash
 make chain
 ```
